@@ -70,7 +70,7 @@ Git, GitHub, VS Code
 
 ## 🏆 Certifications
 
-- MERN Stack Full Stack Development  
+- MERN Stack - Course completion certiicate
 - NPTEL – Data Structures and Algorithms using Java
 - Programming in Java – Infosys Springboard 
 
@@ -80,7 +80,7 @@ Git, GitHub, VS Code
 
 B.E Computer Science and Engineering  
 VSB Engineering College, Karur  
-CGPA: 8.05  
+CGPA: 8.02
 
 ---
 
