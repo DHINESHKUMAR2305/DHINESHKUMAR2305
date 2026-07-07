@@ -80,7 +80,7 @@ Git, GitHub, VS Code
 
 B.E Computer Science and Engineering  
 VSB Engineering College, Karur  
-CGPA: 8.02
+CGPA: 7.85
 
 ---
 
